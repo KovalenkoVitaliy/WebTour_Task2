@@ -1,0 +1,12 @@
+Action.c(29): Number of Tickets on Page in GetAnswer: 3
+Action.c(30): 
+Action.c(92): Number of flightID1: 1646067078-1407875-JB
+Action.c(93): Cost of flightID1: 2375
+Action.c(94): Number of flightID2: 1646103780-2184934-JB
+Action.c(95): Cost of flightID2: 4142
+Action.c(96): Number of flightID3: 7896-240111-JB
+Action.c(97): Cost of flightID3: 454
+Action.c(98): 
+Action.c(122): MINIMUM cost of ticket: 454
+Action.c(124): Number ticket for DELETE: 3
+Vuser Terminated.
